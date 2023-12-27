@@ -1,0 +1,12 @@
+body{
+    background-color: antiquewhite;
+    font-size: medium;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+#heading1{
+    color: aquamarine;
+    font-size: larger;
+}
